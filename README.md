@@ -4,5 +4,4 @@ Search and download your favourite hashtags photos from instagram easily just by
 
 ---
 
-Abdullah Alakeel - 2016
-abdul.alakeel@gmail.com
+Abdullah Alakeel - abdul.alakeel@gmail.com
