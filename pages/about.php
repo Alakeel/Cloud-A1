@@ -33,7 +33,7 @@
 		<h1>About InstaCloud</h1> 
 		<hr/>
 		<p>
-			     InstaClod allows you to view and download your favourite photo directly from Instagram just by one click. Using the search box allow you to enter any hashtag you want to get the photos or video you want.
+			     InstaClod allows to their users to view and download their favourite photos directly from Instagram and view number of likes just by one click. Using the search field allow you to enter any hashtag you want to get the photos you want from Instagram.
            The web is still in beta and will be improved in the future.
 		</p>
 		</div>
